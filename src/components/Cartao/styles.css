@@ -1,0 +1,49 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.member-card {
+  width: 200px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.member-image {
+  width: 100%;
+  border-radius: 50%;
+}
+
+.member-info {
+  margin-top: 15px;
+}
+
+.member-name {
+  font-size: 24px;
+  margin: 0;
+}
+
+.member-position {
+  font-size: 18px;
+  margin-top: 5px;
+  color: #555;
+}
+
+.member-bio {
+  font-size: 14px;
+  color: #666;
+}
+
+.Cartoes {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.Texto {
+  color: #555;
+  margin: auto;
+  text-align: left;
+  width: 900px;
+  padding: 10px;
+}

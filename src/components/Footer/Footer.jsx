@@ -1,4 +1,5 @@
 import "./style.css";
+import { Link } from "react-router-dom";
 
 const Footer = () => {
   return (
@@ -6,11 +7,13 @@ const Footer = () => {
       <div className="overlap-group">
         <div className="text-1">©2023 Nimbus</div>
         <div className="group">
-          <div className="home">Home</div>
+          <Link to="/" className="Home">
+            Home
+          </Link>
           <div className="contact">Contatos</div>
-          <a href="" className="SobreNos">
+          <Link to="/about" className="SobreNos">
             Sobre Nos
-          </a>
+          </Link>
         </div>
         <div className="rectangle" />
         <div className="logo-landie">

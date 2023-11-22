@@ -1,16 +1,19 @@
 import myImage from "../images/LogoNimbus.png";
 import "./style.css";
+import { Link } from "react-router-dom";
 
 const Header = () => {
   return (
     <header className="header">
       <div className="nav">
         <div className="menu">
-          <div className="Home">Home</div>
+          <Link to="/" className="Home">
+            Home
+          </Link>
           <div className="Contato">Contatos</div>
-          <a href="" className="SobreNos">
+          <Link to="/about" className="SobreNos">
             Sobre Nos
-          </a>
+          </Link>
         </div>
         <div className="logo">
           <img className="logo-header" alt="Logo Nimbus" src={myImage} />
