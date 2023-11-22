@@ -1,0 +1,10 @@
+div {
+  padding: 5vw;
+  margin: 15vh;
+}
+
+@media (max-width: 768px) {
+  div {
+    height: 60vh;
+  }
+}

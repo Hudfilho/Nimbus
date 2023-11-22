@@ -1,0 +1,26 @@
+.footer {
+  background-color: #fcc129;
+  color: #111b47;
+  padding: 20px;
+  text-align: center;
+}
+
+.text-1 {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.group {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.group div {
+  color: #5a89e4;
+  text-decoration: none;
+}
+
+.group div:hover {
+  text-decoration: underline;
+}
