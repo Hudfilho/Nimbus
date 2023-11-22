@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Codigo-Nimbus/static/css/main.6b53508e.css",
+    "main.js": "/Codigo-Nimbus/static/js/main.854b2230.js",
+    "static/js/703.bdfe8575.chunk.js": "/Codigo-Nimbus/static/js/703.bdfe8575.chunk.js",
+    "static/js/198.76124eeb.chunk.js": "/Codigo-Nimbus/static/js/198.76124eeb.chunk.js",
+    "static/media/LogoNimbus.png": "/Codigo-Nimbus/static/media/LogoNimbus.8991fe93b8c4cb0f7cdd.png",
+    "static/media/spritesheet.svg": "/Codigo-Nimbus/static/media/spritesheet.a4e0eb7ad904a4858361.svg",
+    "index.html": "/Codigo-Nimbus/index.html",
+    "main.6b53508e.css.map": "/Codigo-Nimbus/static/css/main.6b53508e.css.map",
+    "main.854b2230.js.map": "/Codigo-Nimbus/static/js/main.854b2230.js.map",
+    "703.bdfe8575.chunk.js.map": "/Codigo-Nimbus/static/js/703.bdfe8575.chunk.js.map",
+    "198.76124eeb.chunk.js.map": "/Codigo-Nimbus/static/js/198.76124eeb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b53508e.css",
+    "static/js/main.854b2230.js"
+  ]
+}
