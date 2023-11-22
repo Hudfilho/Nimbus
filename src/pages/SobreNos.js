@@ -73,6 +73,7 @@ export default function SobreNos() {
           imageUrl="https://cdn.i-scmp.com/sites/default/files/styles/768x768/public/d8/images/canvas/2023/07/07/fef3ba07-78ab-4b6f-98bd-c4281caa0fa4_2b7d0fc3.jpg?itok=cGBIcWdn&v=1688725357"
         />
       </div>
+      <Footer />
     </div>
   );
 }
